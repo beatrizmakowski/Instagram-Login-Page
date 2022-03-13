@@ -6,6 +6,10 @@ This is a clone of the Instagram login page (2021 version) made with HTML and CS
 ## :eyes: Preview
 You can see a preview of the page here: [HTML preview](https://htmlpreview.github.io/?https://github.com/beatrizmakowski/Instagram-Login-Page/blob/main/index.html)
 
+
+<a href="#"> <img src="https://user-images.githubusercontent.com/86008015/158040404-d48a5337-95b9-4749-ad44-60289cae6092.JPG" height="500px" alt="preview"/> </a>
+
+
 ## 💡 Recursos utilizados
 
 Some of the most helpful ressources used for making this project are listed below:
@@ -19,7 +23,7 @@ This project is under the MIT licence - see the [LICENSE.md](https://github.com/
 
 ## Author
 
-<a href="https://github.com/beatrizmakowski"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86008015?v=4" width="100px;" alt="Personal photo"/> </a>
+<a href="https://github.com/beatrizmakowski"> <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/86008015?v=4" width="100px;" alt="Personal photo"/> </a>
 
 Made by **Beatriz Makowski**. Get in touch! 👇
 
