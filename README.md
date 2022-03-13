@@ -17,7 +17,7 @@ Some of the most helpful resources used for making this project are listed below
 * [W3 Schools HTML](https://www.w3schools.com/html/)
 * [CSS Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
  
-## 📄 Licença
+## 📄 License
 
 This project is under the MIT licence - see the [LICENSE.md](https://github.com/beatrizmakowski/Desafio-Cagpemini-2022/blob/main/LICENSE) archive for details.
 
