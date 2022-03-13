@@ -10,7 +10,7 @@ You can see a preview of the page here: [HTML preview](https://htmlpreview.githu
 <a href="#"> <img src="https://user-images.githubusercontent.com/86008015/158040404-d48a5337-95b9-4749-ad44-60289cae6092.JPG" height="500px" alt="preview"/> </a>
 
 
-## 💡 Recursos utilizados
+## 💡 Ressources
 
 Some of the most helpful ressources used for making this project are listed below:
 
