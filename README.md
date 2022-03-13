@@ -10,9 +10,9 @@ You can see a preview of the page here: [HTML preview](https://htmlpreview.githu
 <a href="#"> <img src="https://user-images.githubusercontent.com/86008015/158040404-d48a5337-95b9-4749-ad44-60289cae6092.JPG" height="500px" alt="preview"/> </a>
 
 
-## 💡 Ressources
+## 💡 Resources
 
-Some of the most helpful ressources used for making this project are listed below:
+Some of the most helpful resources used for making this project are listed below:
 
 * [W3 Schools HTML](https://www.w3schools.com/html/)
 * [CSS Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
